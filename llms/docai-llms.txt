@@ -1,0 +1,35 @@
+# doc.ai
+
+> doc.ai, Inc. was a privacy-first enterprise artificial intelligence platform for
+> healthcare, founded by Sam De Brouwer and Walter De Brouwer. It ran decentralized
+> "data trials" that let individuals train models on their own genomic, exposomic,
+> wellness and hematology data, and issued the $NRN (Neuron) token in a sale that
+> closed in October 2017 — the reason it is carried in Pantera Capital's portfolio
+> under the crypto sector. Sharecare, Inc. completed its acquisition of doc.ai on
+> 2021-02-23, absorbing the Unwinding Anxiety, Serenity, VERIFIED and Passport
+> products. The doc.ai brand is retired: the apex domain no longer resolves to a
+> website, and no doc.ai developer portal, API, or specification exists.
+
+## Status
+
+- Company status: defunct (acquired)
+- Acquired by: Sharecare, Inc., announced complete 2021-02-23
+- API surface: none — no OpenAPI, AsyncAPI, GraphQL, SDKs, or developer portal located
+- Website: https://doc.ai/ (no A record; last archived HTTP 200 on 2023-04-16)
+
+## Successor
+
+- Sharecare: https://about.sharecare.com/
+- Acquisition press release: https://about.sharecare.com/press-releases/sharecare-completes-acquisition-of-doc-ai-enhancing-digital-health-offering-with-innovative-ai-solutions-and-tech-capabilities/
+
+## Archived surface (Internet Archive only — not live)
+
+- Homepage: https://web.archive.org/web/20230416210028/https://doc.ai/
+- Developers page (community/recruiting, not an API portal): https://web.archive.org/web/20191206201257/https://doc.ai/developers/
+- $NRN (Neuron) token: https://web.archive.org/web/20190717145142/https://doc.ai/neuron/
+
+## Artifacts in this profile
+
+- Lifecycle and acquisition record: lifecycle/docai-lifecycle.yml
+- Domain security probe: security/docai-domain-security.yml
+- APIs.json profile: https://raw.githubusercontent.com/api-evangelist/docai/refs/heads/main/apis.yml

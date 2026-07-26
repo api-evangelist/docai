@@ -1,0 +1,67 @@
+generated: '2026-07-20'
+method: searched
+source: https://about.sharecare.com/press-releases/sharecare-completes-acquisition-of-doc-ai-enhancing-digital-health-offering-with-innovative-ai-solutions-and-tech-capabilities/
+company_status: defunct
+company_status_detail: >-
+  doc.ai, Inc. was acquired by Sharecare, Inc. and announced complete on 2021-02-23.
+  The doc.ai brand was absorbed into Sharecare; the doc.ai website continued to serve
+  an acquisition notice through at least 2023-04, and as of this probe the doc.ai
+  apex domain publishes no A record and serves no website. There is no doc.ai
+  developer portal, API, or specification to harvest.
+acquisition:
+  acquirer: Sharecare, Inc.
+  acquirer_url: https://about.sharecare.com/
+  announced: '2021-02-23'
+  press_release: https://about.sharecare.com/press-releases/sharecare-completes-acquisition-of-doc-ai-enhancing-digital-health-offering-with-innovative-ai-solutions-and-tech-capabilities/
+  founders_retained:
+  - name: Sam De Brouwer
+    role: Chief Strategy Officer, Sharecare
+  - name: Walter De Brouwer
+    role: Chief Scientific Officer, Sharecare
+  products_absorbed:
+  - Unwinding Anxiety
+  - Serenity
+  - VERIFIED
+  - Passport
+domain:
+  apex: doc.ai
+  web_presence: false
+  a_record: false
+  ns: aws-route53
+  mx: doc-ai.mail.protection.outlook.com
+  note: >-
+    DNS zone is still administered (Route 53 nameservers, Microsoft 365 mail routing,
+    SPF including Salesforce and HubSpot senders, DMARC p=reject) but no host answers
+    on the web. Mail infrastructure outliving the website is consistent with a brand
+    retired into an acquirer.
+  last_archived_200: '2023-04-16'
+  archive: https://web.archive.org/web/20230416210028/https://doc.ai/
+historical_surface:
+  note: >-
+    Captured from Internet Archive snapshots only; none of these are live. doc.ai
+    never published a public API specification, API reference, or SDK that could be
+    located.
+  pages:
+  - path: /developers
+    archived: https://web.archive.org/web/20191206201257/https://doc.ai/developers/
+    kind: developer-community-and-recruiting
+    api_surface: false
+    note: A community/careers landing page for developers and scientists, not an API portal.
+  - path: /neuron
+    archived: https://web.archive.org/web/20190717145142/https://doc.ai/neuron/
+    kind: token
+    note: >-
+      $NRN (Neuron) token. Token sale closed October 2017. This crypto/token offering
+      is why doc.ai appears in the Pantera Capital portfolio listing under sector "crypto",
+      despite the company being a digital-health AI business.
+  products_referenced:
+  - Crestle.ai
+  - Netrunner
+  - Omics
+api_surface:
+  present: false
+  openapi: false
+  asyncapi: false
+  graphql: false
+  sdks: false
+  reason: company defunct/acquired; no developer portal or specification published
