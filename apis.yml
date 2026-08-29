@@ -9,6 +9,17 @@ description: 'doc.ai, Inc. was a privacy-first enterprise artificial intelligenc
   Anxiety, Serenity, VERIFIED and Passport products and retaining both founders as executives. The doc.ai
   brand is retired: the apex domain no longer resolves to a website (last archived HTTP 200 on 2023-04-16)
   and no doc.ai developer portal, API, or specification could be located.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
