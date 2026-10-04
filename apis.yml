@@ -51,7 +51,7 @@ tags:
 - Artificial Intelligence
 - Health
 - Digital Health
-- Machine-Learning
+- Machine Learning
 - Tokens
 - Defunct
 - Acquired
@@ -65,6 +65,7 @@ tags_raw:
 - Tokens
 - Defunct
 - Acquired
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
