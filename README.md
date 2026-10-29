@@ -64,23 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-**Status: defunct — acquired by [Sharecare, Inc.](https://about.sharecare.com/), announced complete 2021-02-23.**
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-doc.ai, Inc. was a privacy-first enterprise artificial intelligence platform for healthcare, founded by Sam De Brouwer and Walter De Brouwer. It ran decentralized "data trials" that let individuals contribute and train models on their own genomic, pharmacogenomic, exposomic, wellness and hematology data, and it issued the $NRN (Neuron) token in a sale that closed in October 2017 — which is why it is carried in the Pantera Capital portfolio under the crypto sector despite being a digital-health AI business.
+doc.ai, Inc. was a privacy-first enterprise artificial intelligence platform for healthcare, founded by Sam De Brouwer and Walter De Brouwer. It ran decentralized "data trials" that let individuals contribute and train models on their own genomic, pharmacogenomic, exposomic, wellness and hematology data, and it issued the $NRN (Neuron) token in a sale that closed in October 2017 — which is why it is carried in the Pantera Capital portfolio under the crypto sector despite being a digital-health AI business. Sharecare, Inc. completed its acquisition of doc.ai on 2021-02-23, absorbing the Unwinding Anxiety, Serenity, VERIFIED and Passport products and retaining both founders as executives. The doc.ai brand is retired: the apex domain no longer resolves to a website (last archived HTTP 200 on 2023-04-16) and no doc.ai developer portal, API, or specification could be located.
 
-Sharecare absorbed the Unwinding Anxiety, Serenity, VERIFIED and Passport products and retained both founders as executives. The doc.ai brand is retired: the apex domain no longer resolves to a website (last archived HTTP 200 on 2023-04-16), and no doc.ai developer portal, API, or specification could be located.
+**Areas:** Company · Cryptocurrency · Artificial Intelligence · Health · Digital Health · Machine Learning · Tokens · Defunct · Acquired
 
-**There is no API surface here.** No OpenAPI, AsyncAPI, GraphQL, SDKs, CLI, MCP server, or developer documentation exists to harvest, so the artifact tiers that depend on a specification are legitimately empty rather than pending.
+## doc.ai on APIs.io (historical record)
 
-- Website of record: https://doc.ai/ (no A record)
-- Archived homepage: https://web.archive.org/web/20230416210028/https://doc.ai/
-- Acquisition press release: https://about.sharecare.com/press-releases/sharecare-completes-acquisition-of-doc-ai-enhancing-digital-health-offering-with-innovative-ai-solutions-and-tech-capabilities/
-- Backed by: pantera-capital
+Everything profiled for doc.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/docai/](https://apis.io/providers/docai/)** — or go straight to one of the APIs or properties below.
 
-## Artifacts
+### Published properties
 
-| Artifact | File |
-|---|---|
-| Lifecycle / acquisition record | `lifecycle/docai-lifecycle.yml` |
-| Domain security probe | `security/docai-domain-security.yml` |
-| llms.txt | `llms/docai-llms.txt` |
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Docai Domain Security](https://apis.io/security/docai/docai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://doc.ai/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for doc.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/docai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
